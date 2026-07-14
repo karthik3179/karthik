@@ -55,7 +55,7 @@ while True:
     ]
 
     for item in menu:
-        print(item)
+      print(item)
 
     break
 
